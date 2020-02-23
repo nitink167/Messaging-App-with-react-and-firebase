@@ -2,6 +2,7 @@
   "name": "instant-messaging",
   "version": "0.1.0",
   "private": true,
+  "public": "public",
   "dependencies": {
     "@material-ui/core": "^4.8.1",
     "@material-ui/icons": "^4.5.1",
